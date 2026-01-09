@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "npm" # Juice ShopはNode.jsベース
+    directory: "/"
+    schedule:
+      interval: "daily"
